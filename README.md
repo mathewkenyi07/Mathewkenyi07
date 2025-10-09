@@ -1,13 +1,13 @@
-# Mathew k Isaac
+# Mathew kenyi Isaac
 
 **`Tech Nerd (Developer/Creator/upcoming Software Engineer)`**
   
 
 
-  <a href="https://mathew.k.isaac">
+  <a href="https://mathewkenyi07">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/mathew15541?igsh=eXNicGdIMW9nOGw3">
+  <a href="https://instagram.com/mathewkenyi07?igsh=eXNicGdIMW9nOGw3">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/mathew-kenyi-a60496345/">

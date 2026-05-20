@@ -1,6 +1,6 @@
 # Mathew kenyi Isaac
 
-**`Tech Nerd (Developer/Creator/upcoming Software Engineer)`**
+**`Software Engieer and Tech Ethusiast`**
   
 
 
@@ -24,9 +24,8 @@ All coding projects are built from the ground up, from planning and designing al
 I’m passionate about learning new tech, and sharing my journey with the dev community.  
 
 ## 🧑‍💻 About Me  
-- 🌱 Currently leveling up in **HTML, CSS, and C#**  
-- 🔜 Next up: **C++, Java, JavaScript, React, Node.js** (and beyond 👀)  
-- 🎯 Goal: Craft dope software solutions that make life easier  
+- 🌱 Currently leveling up in **Javascriipt, HTML, CSS, C and TailwindCss**   
+- 🎯 Goal: Craft dope software solutions that solve real problems we face in our communities make life easier  
 - ⚡ Fun fact: I debug with music on full blast 🎶  
 
 ---

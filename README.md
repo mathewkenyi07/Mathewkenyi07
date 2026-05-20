@@ -24,7 +24,7 @@ All coding projects are built from the ground up, from planning and designing al
 I’m passionate about learning new tech, and sharing my journey with the dev community.  
 
 ## 🧑‍💻 About Me  
-- 🌱 Currently leveling up in **Javascriipt, HTML, CSS, C and TailwindCss**   
+- 🌱 Currently leveling up in **Javascript, HTML, CSS, C and TailwindCss**   
 - 🎯 Goal: Craft dope software solutions that solve real problems we face in our communities make life easier  
 - ⚡ Fun fact: I debug with music on full blast 🎶  
 
@@ -32,18 +32,22 @@ I’m passionate about learning new tech, and sharing my journey with the dev co
 
 ## 🔥 Projects  
 
-✨ Here’s some of my work. *(Click images to explore more once I host them)*  
+ 
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">👕 Clothing Website</h3>
-      <p align="center">
-        A stylish eCommerce-style website for clothing.  
+      <h3 align="center">Medical Link Africa</h3>
+      <p align="center"><p>Here's the link to the site <a href="https://medicallinkafrica.netlify.app/" target="blank">www.medicalLinkAfrica.com</a>
+     </p>
+        Medical Link Africa is a healthcare-focused web platform designed to help users quickly locate medicines and connect with verified pharmacies. The project aims to reduce the risk of counterfeit medicines, improve access to healthcare information, and simplify medicine searches through multilingual voice and text support. Built as a real-world problem-solving solution, the platform focuses on accessibility, reliability, and improving healthcare access across African communities.
+.  
         <br />
         <br />
-        <img src="your-image-link-here" width="90%" alt="Clothing Website"/>
-      </p>
+        
+ <img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/ea07046c-a64a-4432-9697-615919e8c755" />
+ MedicalLinkAfrica.org
+      </p> 
     </td>
     <td width="50%">
       <h3 align="center">📅 Life Tracker App</h3>
@@ -62,19 +66,18 @@ I’m passionate about learning new tech, and sharing my journey with the dev co
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,cs" /><br>
-  <b>Learning Next:</b>  
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs" />
+  <p align="center">
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c" /><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
-
----
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="Mathew's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mathewkenyi07&show_icons=true&theme=tokyonight" alt="Mathew's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewkenyi07&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 ---

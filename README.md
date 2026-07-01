@@ -8,7 +8,7 @@
   <a href="https://github.com/mathewkenyi07">
     <img src="./assets/profile-frame.svg" width="150" align="left" style="margin-right: 20px;"/>
   </a>
-  <font size="7"><b>Mathew Kenyi Isaac</b></font><br/>
+  <font size="15"><b>Mathew Kenyi Isaac</b></font><br/>
   <font size="4"><em>Software Engineer &amp; Techpreneur</em></font><br/><br/>
   🎓 BSc Computer Science — <strong>University of Kigali</strong><br/>
   💻 Full-Stack Developer &amp; Technical Content Creator<br/>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mathew-kenyi-a60496345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mathew-kenyi-isaac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/mathewkenyi07?igsh=eXNicGdIMW9nOGw3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.facebook.com/mathewkenyi07" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   &nbsp;&nbsp;

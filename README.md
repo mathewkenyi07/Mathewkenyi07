@@ -8,7 +8,7 @@
   <a href="https://github.com/mathewkenyi07">
     <img src="./assets/profile-frame.svg" width="150" align="left" style="margin-right: 20px;"/>
   </a>
-  <font size="6"><b>Mathew Kenyi Isaac</b></font><br/>
+  <font size="7"><b>Mathew Kenyi Isaac</b></font><br/>
   <font size="4"><em>Software Engineer &amp; Techpreneur</em></font><br/><br/>
   🎓 BSc Computer Science — <strong>University of Kigali</strong><br/>
   💻 Full-Stack Developer &amp; Technical Content Creator<br/>
